@@ -24,7 +24,7 @@
 参考：https://www.jianshu.com/p/b693d660acc1
 
 Notice:
-1) Build Target must be iOS 12+ if you use newer version of Xcode (you change it manually or set in Podfile)
+1) Build Target must be iOS 12+ if you use newer version of Xcode (you can change it manually or set in Podfile)
 2) Build Settings - User Script Sandbox : NO
 3) 修复CocoaHTTPServer因新版CocoaLumberjack API报错
 
