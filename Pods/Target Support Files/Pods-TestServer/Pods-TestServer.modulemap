@@ -1,0 +1,6 @@
+framework module Pods_TestServer {
+  umbrella header "Pods-TestServer-umbrella.h"
+
+  export *
+  module * { export * }
+}
